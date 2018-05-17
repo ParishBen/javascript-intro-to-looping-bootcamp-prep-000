@@ -23,7 +23,7 @@ function maybeTrue() {
 function doWhileLoop(array){
   do { array;
 }
-while(array>0){
+while(array.length > 0 && maybeTrue()){
   console.log(--array)
   return array
 }

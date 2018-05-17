@@ -23,3 +23,4 @@ do { array;
 while (array>0){
   console.log(--array)
 }
+}

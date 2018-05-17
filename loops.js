@@ -7,7 +7,7 @@ function forLoop(cray) {
     }
   }
 
-  return array
+  return cray
 }
 function whileLoop(n) {
   while (n > 0) {

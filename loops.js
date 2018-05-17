@@ -20,7 +20,7 @@ function whileLoop(n) {
 function doWhileLoop(array){
 do { array;
 }
-while (array>0){
-  console.log(--array)
+while (let array=25; array>0; --array){
+  return array
 }
 }
